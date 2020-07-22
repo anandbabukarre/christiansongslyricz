@@ -407,33 +407,168 @@
   
   {
     "id": "46",
-    "songname": "",
-    "lyricsurl": "",
-    "mp3url": "",
-    "youtubeurl": ""
+    "songname": "జుంటె తేనె ధారలకన్న",
+    "lyricsurl": "file:///android_asset/ja/junte_thane_daarala.html",
+    "mp3url": "http://uecf.net/songs/albums/DayaaKireetam/2.mp3",
+    "youtubeurl": "_PGRmSvgXoc"
    
   },
   
   {
     "id": "47",
-    "songname": "",
-    "lyricsurl": "",
-    "mp3url": "",
-    "youtubeurl": ""
+    "songname": "జ్యోతిర్మయుడా నా ప్రాణ ప్రియుడా",
+    "lyricsurl": "file:///android_asset/ja/jothirmayuda.html",
+    "mp3url": "http://uecf.net/songs/yesanna/sthuthi/7.mp3",
+    "youtubeurl": "9EnNGHxtawU"
    
   },
   
   {
     "id": "48",
-    "songname": "",
-    "lyricsurl": "",
-    "mp3url": "",
-    "youtubeurl": ""
+    "songname": "తేజోవాసుల స్వాస్థ్యమందు ",
+    "lyricsurl": "file:///android_asset/ta/thejovasula_swasyamandu.html",
+    "mp3url": "http://uecf.net/songs/albums/Sarvonnathudu_Yesanna/8.mp3",
+    "youtubeurl": "cuARvJR7daA"
    
   },
   
   {
     "id": "49",
+    "songname": "త్రియేకదేవుడైన యెహోవాను కెరూబులు",
+    "lyricsurl": "file:///android_asset/ta/thrieka_devudaina.html",
+    "mp3url": "none",
+    "youtubeurl": "M1WmtJ2qfow"
+   
+  },
+  
+  {
+    "id": "50",
+    "songname": "దయగల హృదయుడవు",
+    "lyricsurl": "file:///android_asset/da/dayagala_hrudayudavu.html",
+    "mp3url": "https://www.christianstorage.com/wp-content/uploads/2017/11/Dayagala-Hrudayudavu-Nee-Swasthyamunu.mp3",
+    "youtubeurl": "N7G82ngwJ7A"
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "దివినేలు స్తోత్రర్హుడా యేసయ్య",
+    "lyricsurl": "file:///android_asset/da/divinelu_sthothrahuda.html",
+    "mp3url": "https://www.christianstorage.com/wp-content/uploads/2017/11/Divinelu-Sthotrarhuda.mp3",
+    "youtubeurl": "N7l2kPbjdrA"
+   
+  },
+  
+  {
+    "id": "52",
+    "songname": "దేవా నా ఆర్తధ్వని వినవా",
+    "lyricsurl": "file:///android_asset/da/deva_naa_arda_dwani.html",
+    "mp3url": "http://www.christianstorage.com/wp-content/uploads/2017/11/devaa-naa-artha-dwani-vinaava.mp3",
+    "youtubeurl": "gIt7ZF3xPls"
+   
+  },
+  
+  {
+    "id": "53",
+    "songname": "దేవా నా దేవుడవు నీవే",
+    "lyricsurl": "file:///android_asset/da/deva_naa_devudavu_neeve.html",
+    "mp3url": "http://uecf.net/songs/albums/Aahcharyakarudu/4.mp3",
+    "youtubeurl": "UHDAZww9PyY"
+   
+  },
+  
+  {
+    "id": "54",
+    "songname": "దేవా నీ కృప నిరంతరం",
+    "lyricsurl": "file:///android_asset/da/deva_nee_krupa_niratharam.html",
+    "mp3url": "http://uecf.net/songs/albums/AnanthaSthothraarhudaa/7.mp3",
+    "youtubeurl": "F0KXocHBecs"
+   
+  },
+  
+  {
+    "id": "55",
+    "songname": "నజరేయుడా నాయేసయ్యా ఎన్నియుగాలకైనా",
+    "lyricsurl": "file:///android_asset/na/najareyuda_nayesayya.html",
+    "mp3url": "http://uecf.net/songs/yesanna/sthuthi/3.mp3",
+    "youtubeurl": "cZA9dzpzXvU"
+   
+  },
+  
+  {
+    "id": "56",
+    "songname": "నను విడువక యెడబాయక",
+    "lyricsurl": "file:///android_asset/na/nanu_viduvaka_edabayaka.html",
+    "mp3url": "http://uecf.net/songs/albums/YesuRaajaa/5.mp3",
+    "youtubeurl": "9TdgQnRvLB4"
+   
+  },
+  
+  {
+    "id": "57",
+    "songname": "నమ్మదగిన వాడవు",
+    "lyricsurl": "file:///android_asset/na/nammadagina_vaadavu.html",
+    "mp3url": "http://www.christianstorage.com/wp-content/uploads/2017/11/Nammadagina-Vadavu-Sahayudavu-Yesaiah.mp3",
+    "youtubeurl": "xPSS5KoUA40"
+   
+  },
+  
+  {
+    "id": "58",
+    "songname": "నమ్మి నమ్మి మనుషులను",
+    "lyricsurl": "file:///android_asset/na/nammi_nammi.html",
+    "mp3url": "http://uecf.net/songs/albums/AathmaanuBandham/3.mp3",
+    "youtubeurl": "xeBYFId5Vrc"
+   
+  },
+  
+  {
+    "id": "59",
+    "songname": "నా అర్పణలు ",
+    "lyricsurl": "file:///android_asset/na/naa_arpanalu_neevu.html",
+    "mp3url": "http://uecf.net/songs/yesanna/Krupaamrutham/5.mp3",
+    "youtubeurl": "MHuaForNOSA"
+   
+  },
+  
+  {
+    "id": "60",
+    "songname": "నా ఆత్మియా యాత్రలో",
+    "lyricsurl": "file:///android_asset/na/naa_athmeya_yatralo.html",
+    "mp3url": "http://www.christianstorage.com/wp-content/uploads/2017/11/Naa-Athmiya-Yaatralo-Aranya-Margamulo.mp3",
+    "youtubeurl": "jDC2jVDf-XA"
+   
+  },
+  
+  {
+    "id": "61",
+    "songname": "నా ఎదుట నీవు తెరిచిన",
+    "lyricsurl": "file:///android_asset/na/naa_yeduta_neevu.html",
+    "mp3url": "none",
+    "youtubeurl": "kXYrlH-eIVI"
+   
+  },
+  
+  {
+    "id": "62",
+    "songname": "నా కెంతో ఆనందం ",
+    "lyricsurl": "file:///android_asset/na/naakentho_anandam.html",
+    "mp3url": "http://uecf.net/songs/yesanna/parakrama/2.mp3",
+    "youtubeurl": "3JbYC6yxmHs"
+   
+  },
+  
+  {
+    "id": "63",
+    "songname": "నా గీతారాధనలో యేసయ్యా",
+    "lyricsurl": "file:///android_asset/na/naa_geetharadanalo.html",
+    "mp3url": "http://uecf.net/songs/yesanna/PrabhuGeethaaraadhana/1.mp3",
+    "youtubeurl": "Y3fh3PYnapw"
+   
+  },
+  
+  {
+    "id": "51",
     "songname": "",
     "lyricsurl": "",
     "mp3url": "",
@@ -442,13 +577,751 @@
   },
   
   {
-    "id": "50",
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },{
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },{
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },{
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },{
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },{
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  {
+    "id": "51",
+    "songname": "",
+    "lyricsurl": "",
+    "mp3url": "",
+    "youtubeurl": ""
+   
+  },
+  
+  {
+    "id": "51",
     "songname": "",
     "lyricsurl": "",
     "mp3url": "",
     "youtubeurl": ""
    
   }
+  
   
   
   
