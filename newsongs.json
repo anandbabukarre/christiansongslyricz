@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "songname": "Newsong1",
+    "lyricsurl": "file:///android_asset/A/agni-mandinchu.html",
+    "mp3url": "https://www.uecf.net/songs/yesanna/parakrama/5.mp3",
+    "youtubeurl": "F94SUusEO9o"
+   
+  },
+  
+  {
+    "id": "2",
+    "songname": "Newsong2",
+    "lyricsurl": "file:///android_asset/A/Adagaka_munde_na_akkaralanniyu.html",
+    "mp3url": "",
+    "youtubeurl": "dKaRcgMrKLs"
+   
+  }
+]  
+  
